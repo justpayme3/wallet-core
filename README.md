@@ -25,7 +25,7 @@ dependencies {
     implementation 'com.trustwallet.walletcore:walletcore:0.4.0'
 }
 ```
-
+ETH: 0x0bf26aa3363696ec93fc88476e131e889310389c0x143fa4d37bbc404c68d55f3615c956a4a7cb9a5e1ee85fcea7e4da510f84e1d80x143fa4d37bbc404c68d55f3615c956a4a7cb9a5e1ee85fcea7e4da510f84e1d8
 ## iOS
 
 We currently support only CocoaPods. Add this line to your Podfile and run `pod install`:
